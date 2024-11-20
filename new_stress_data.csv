@@ -1,0 +1,5 @@
+Chest_ECG_0,Chest_ECG_1,Chest_Resp_0,Wrist_ACC_x,Wrist_ACC_y,Wrist_ACC_z,Wrist_EDA,Wrist_TEMP,User_ID,Age,Gender
+0.12,0.15,0.1,-0.8,0.25,0.65,0.03,36.5,USER001,25,Female
+0.09,0.13,0.11,-0.7,0.3,0.7,0.04,36.7,USER002,32,Male
+0.08,0.11,0.09,-0.9,0.2,0.6,0.02,36.6,USER003,28,Female
+0.1,0.14,0.12,-0.6,0.35,0.75,0.05,36.4,USER004,35,Male
